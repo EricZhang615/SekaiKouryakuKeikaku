@@ -368,4 +368,4 @@ If the deploy tasks are finished with out fails, run:
 ```bash
 (venv) $ kolla-ansible post-deploy
 ```
-With this command, the admin-openrc.sh will be generated at /etc/kolla/admin-openrc.sh.
+With this command, the `admin-openrc.sh` will be generated at `/etc/kolla/admin-openrc.sh`.

@@ -362,7 +362,7 @@ If you are following official documents, there are another steps before deployme
 kolla-ansible -i multinode bootstrap-servers
 kolla-ansible -i multinode prechecks
 ```
-Theses steps will help you to do the above configurations, but I always receive the apt mudule not exist problem via virtual environment. Whats more, these steps may break your docker registry GPG key settings. Therefore, you can just skip these steps and deploy it directly, as long as you can make sure the basic environment is set up properly. 
+These steps will help you to do the above configurations, but I always receive the apt mudule not exist problem via virtual environment. Whats more, these steps may break your docker registry GPG key settings. Therefore, you can just skip these steps and deploy it directly, as long as you can make sure the basic environment is set up properly. 
 
 If the deploy tasks are finished with out fails, run:
 ```bash

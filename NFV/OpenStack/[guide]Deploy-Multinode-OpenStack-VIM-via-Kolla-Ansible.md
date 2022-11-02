@@ -291,7 +291,7 @@ kolla_install_type: "source"
 openstack_tag_suffix: ""
 kolla_internal_vip_address: "<an unused IP as float IP>"
 
-docker_registry: "192.168.1.2:4000"
+docker_registry: "<your-local-ip-addr>:4000"
 
 network_interface: "<nic1>"
 neutron_external_interface: "<nic2>"

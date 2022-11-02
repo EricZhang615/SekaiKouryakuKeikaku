@@ -117,7 +117,7 @@ source /path/to/venv/bin/activate
 
 6. Configure Ansible
     >For best results, Ansible configuration should be tuned for your environment. For example, add the following options to the Ansible configuration file `/etc/ansible/ansible.cfg`:
-    >```YAML
+    >```ini
     >[defaults]
     >host_key_checking=False
     >pipelining=True

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f96898e3b8f2cf2",
+        "id": "9cbaff700177e53c",
         "type": "tabs",
         "children": [
           {
-            "id": "b9040b37a0758755",
+            "id": "d7bbdc98e7a7bcc3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd7ec7b74565481f",
+  "active": "d7bbdc98e7a7bcc3",
   "lastOpenFiles": [
+    "Indoor location/技术方案.pdf",
+    "Indoor location/技术方案.md",
+    "Indoor location/截屏2023-02-20 17.19.25.png",
+    "Indoor location/介绍.md",
+    "Indoor location/168_1676942926.mp4",
+    "Indoor location/167_1676942910.mp4",
     "Linux/Windows-ssh-cppy-id使用.md",
     "NFV/OpenStack/[guide]Deploy-Multinode-OpenStack-VIM-via-Kolla-Ansible.md",
     "README.md",

@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "af7c19c98b65a750",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f96898e3b8f2cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9040b37a0758755",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a9faedcdd778dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97afc63487a3d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3160b2c1d29594dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3147e5435ad7991",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8643bdfc6397b1d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "b4a91485e3209b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "55ebe7b8d83b5cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7af803cba6c72e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c467357ec4119016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9fc71af3f4945a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb4320dafe61810c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd7ec7b74565481f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dd7ec7b74565481f",
+  "lastOpenFiles": [
+    "Linux/Windows-ssh-cppy-id使用.md",
+    "NFV/OpenStack/[guide]Deploy-Multinode-OpenStack-VIM-via-Kolla-Ansible.md",
+    "README.md",
+    "未命名.canvas"
+  ]
+}

@@ -169,3 +169,33 @@ $N_1=B^{-1}N, b_1=B^{-1}b, BB^{-1}=E$
 
 约束为$\ge$形式
 
+KKT条件
+
+$\nabla f(x^*)=\nabla g(x^*)\lambda+\nabla h(x^*)\mu$
+
+$g(x^*)^T\lambda=0, \lambda \ge 0$
+
+$g(x^*)\ge 0, h(x^*)=0$
+
+最速下降 p283
+
+牛顿 p288 
+
+共轭梯度 p299 p127 
+
+拟牛顿 p309
+
+zoutendijk可行方向 p365
+
+Rosen梯度投影 p376 p161
+
+罚函数
+
+逆矩阵
+
+1. 待定系数法，矩阵乘逆矩阵为单位矩阵
+2. 增广矩阵 初等行变换
+
+$\frac{\partial y x}{\partial x}=y^T$
+
+$\frac{\partial(x^TA x)}{\partial x}=(A+A^T)x$

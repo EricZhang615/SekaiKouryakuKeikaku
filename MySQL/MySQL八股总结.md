@@ -311,7 +311,7 @@ InnoDB 如何保证 ACID
 - 持久性：redo log
 - 原子性：undo log
 - 隔离性：MVCC
-- 一致性：A + C + I
+- 一致性：A + I + D
 
 ### 隔离性 / 并行事务
 
